@@ -1,0 +1,2 @@
+Computer\HKEY_CURRENT_USER\Software\Citrix\ICA Client\Engine\Lockdown Profiles\All Regions\Lockdown\Virtual Channels\Keyboard
+
